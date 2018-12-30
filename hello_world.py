@@ -1,0 +1,3 @@
+#FakeCode
+
+print("Hello world")
