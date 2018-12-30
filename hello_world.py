@@ -1,3 +1,0 @@
-#FakeCode
-
-print("Hello world")
